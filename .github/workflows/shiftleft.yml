@@ -1,4 +1,4 @@
-name: Securing Scanning
+name: Shiftleft Scan
 on: [workflow_dispatch]
 jobs:
   build:
